@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<RoadThemePack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
--<RoadThemePack xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<themeName>Americana // This name shows up when in the menu.</themeName>
 
-<themeName>Americana</themeName>
-
-<themeDescription>US Textures from American Roads</themeDescription>
+<themeDescription>US Textures from American Roads // will show up in the tooltip one day</themeDescription>
 
 </RoadThemePack>
